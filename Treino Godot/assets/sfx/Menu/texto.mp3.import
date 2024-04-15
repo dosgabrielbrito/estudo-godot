@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/texto.mp3-b5aa56658c3c2246a607985073c2a025.mp3str"
+
+[deps]
+
+source_file="res://assets/sfx/Menu/texto.mp3"
+dest_files=[ "res://.import/texto.mp3-b5aa56658c3c2246a607985073c2a025.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

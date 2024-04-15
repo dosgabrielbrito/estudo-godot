@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/luz.mp3-8e9846a7ca6582f63bd364d1d43aebd3.mp3str"
+
+[deps]
+
+source_file="res://assets/sfx/Menu/luz.mp3"
+dest_files=[ "res://.import/luz.mp3-8e9846a7ca6582f63bd364d1d43aebd3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

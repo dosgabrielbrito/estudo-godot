@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gameplay-quest-finished.mp3-d360a2ef4c2c5d75268d816fbba30d59.mp3str"
+
+[deps]
+
+source_file="res://assets/bgm/gameplay-quest-finished.mp3"
+dest_files=[ "res://.import/gameplay-quest-finished.mp3-d360a2ef4c2c5d75268d816fbba30d59.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

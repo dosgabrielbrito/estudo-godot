@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/intro-train-music.mp3-6da0792ce9e6e647fb76eb05e20b3d49.mp3str"
+
+[deps]
+
+source_file="res://assets/bgm/intro-train-music.mp3"
+dest_files=[ "res://.import/intro-train-music.mp3-6da0792ce9e6e647fb76eb05e20b3d49.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

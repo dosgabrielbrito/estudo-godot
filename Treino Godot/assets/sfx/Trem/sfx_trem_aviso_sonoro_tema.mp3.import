@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sfx_trem_aviso_sonoro_tema.mp3-64d8ab72161d131e101579bf167c675e.mp3str"
+
+[deps]
+
+source_file="res://assets/sfx/Trem/sfx_trem_aviso_sonoro_tema.mp3"
+dest_files=[ "res://.import/sfx_trem_aviso_sonoro_tema.mp3-64d8ab72161d131e101579bf167c675e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/outro-mensagem-ratao.mp3-a842aa5dcd3434cb02e6270ca07aa4a1.mp3str"
+
+[deps]
+
+source_file="res://assets/bgm/outro-mensagem-ratao.mp3"
+dest_files=[ "res://.import/outro-mensagem-ratao.mp3-a842aa5dcd3434cb02e6270ca07aa4a1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

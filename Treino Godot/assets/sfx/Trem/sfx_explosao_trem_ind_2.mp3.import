@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sfx_explosao_trem_ind_2.mp3-ec508e2a39fd4f36cdefe7fa062d58d6.mp3str"
+
+[deps]
+
+source_file="res://assets/sfx/Trem/sfx_explosao_trem_ind_2.mp3"
+dest_files=[ "res://.import/sfx_explosao_trem_ind_2.mp3-ec508e2a39fd4f36cdefe7fa062d58d6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

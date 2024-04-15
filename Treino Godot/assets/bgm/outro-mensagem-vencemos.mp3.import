@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/outro-mensagem-vencemos.mp3-caa4020034667250a5f1afb386902221.mp3str"
+
+[deps]
+
+source_file="res://assets/bgm/outro-mensagem-vencemos.mp3"
+dest_files=[ "res://.import/outro-mensagem-vencemos.mp3-caa4020034667250a5f1afb386902221.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sfx_trem_porta_aberta.mp3-29cf139787ac38aa08c226100631b4f3.mp3str"
+
+[deps]
+
+source_file="res://assets/sfx/Trem/sfx_trem_porta_aberta.mp3"
+dest_files=[ "res://.import/sfx_trem_porta_aberta.mp3-29cf139787ac38aa08c226100631b4f3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

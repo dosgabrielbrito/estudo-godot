@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/catch.mp3-21fe5d1b25838c7f30777bfa22e6685f.mp3str"
+
+[deps]
+
+source_file="res://assets/sfx/Menu/catch.mp3"
+dest_files=[ "res://.import/catch.mp3-21fe5d1b25838c7f30777bfa22e6685f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
